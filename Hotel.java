@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class HotelManagement {
+public class Hotel {
 
     private static final String url = "jdbc:mysql://localhost:3306/hotelmanagement";
     private static final String username = "root";
